@@ -1,0 +1,15 @@
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\bin\Debug\net6.0\DataAccessEF.deps.json
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\bin\Debug\net6.0\DataAccessEF.dll
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\bin\Debug\net6.0\DataAccessEF.pdb
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\bin\Debug\net6.0\Domain.dll
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\bin\Debug\net6.0\Domain.pdb
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\obj\Debug\net6.0\DataAccessEF.csproj.AssemblyReference.cache
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\obj\Debug\net6.0\DataAccessEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\obj\Debug\net6.0\DataAccessEF.AssemblyInfoInputs.cache
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\obj\Debug\net6.0\DataAccessEF.AssemblyInfo.cs
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\obj\Debug\net6.0\DataAccessEF.csproj.CoreCompileInputs.cache
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\obj\Debug\net6.0\DataAccessEF.csproj.CopyComplete
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\obj\Debug\net6.0\DataAccessEF.dll
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\obj\Debug\net6.0\refint\DataAccessEF.dll
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\obj\Debug\net6.0\DataAccessEF.pdb
+C:\01.neuroCare\First.ASP.API\Second.Asp.Api\webAPI\DataAccessEF\obj\Debug\net6.0\ref\DataAccessEF.dll
